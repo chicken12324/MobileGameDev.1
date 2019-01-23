@@ -1,3 +1,3 @@
 git add --all
-git commit "%random%"
+git commit "%date%"
 git push
