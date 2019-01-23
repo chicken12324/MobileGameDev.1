@@ -1,3 +1,3 @@
 git add --all
-git commit "%date%"
+git commit -m "%date%//%time%"
 git push
